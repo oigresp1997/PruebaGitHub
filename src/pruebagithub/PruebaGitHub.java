@@ -7,7 +7,7 @@ package pruebagithub;
 
 /**
  *
- * @author CicloM
+ * @author Sergio Pastor Martin
  */
 public class PruebaGitHub {
 
